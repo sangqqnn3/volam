@@ -10,6 +10,11 @@
     "IsActive": true,
     "ActivatedDate": "2025-01-01 00:00:00",
     "ExpiryDate": "2025-10-13 00:00:00"
+  },
+    {
+    "HardwareId": "HFocF7elLQhlvsoK6Qg",
+    "IsActive": true,
+    "ActivatedDate": "2025-01-01 00:00:00",
+    "ExpiryDate": "2029-10-13 00:00:00"
   }
-
 ]
